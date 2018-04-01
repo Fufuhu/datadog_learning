@@ -1,1 +1,3 @@
 # datadog_learning
+
+pythonでDatadogのAPIを色々ゴニョゴニョするためのリポジトリ
